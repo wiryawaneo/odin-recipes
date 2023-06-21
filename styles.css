@@ -1,10 +1,14 @@
 body {
-  text-align: center;
   background-color: rgb(217, 217, 217);
 }
 
 .landingHeading {
+    text-align: center;
     color:rgb(210, 156, 56);
+}
+
+.landingOptions {
+    text-align: center;
 }
 
 .landingLinks {
