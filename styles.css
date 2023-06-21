@@ -2,8 +2,11 @@ body {
   background-color: rgb(217, 217, 217);
 }
 
-.landingHeading {
+h1 {
     text-align: center;
+}
+
+.landingHeading {
     color:rgb(210, 156, 56);
 }
 
@@ -14,4 +17,20 @@ body {
 .landingLinks {
   display: inline-block;
   text-align: left;
+}
+
+.cheese-header {
+    color:rgb(169, 164, 19);
+}
+
+.recipe-subheader {
+    text-align: center;
+}
+
+.recipe-description {
+    text-align: center;
+}
+
+.recipe-content {
+    margin-left:20%;
 }
