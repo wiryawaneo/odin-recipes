@@ -3,15 +3,22 @@ body {
 }
 
 h1 {
-    text-align: center;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .landingHeading {
-    color:rgb(210, 156, 56);
+  color: rgb(210, 156, 56);
 }
 
 .landingOptions {
-    text-align: center;
+  text-align: center;
 }
 
 .landingLinks {
@@ -20,17 +27,21 @@ h1 {
 }
 
 .cheese-header {
-    color:rgb(169, 164, 19);
+  color: rgb(169, 164, 19);
+}
+
+.frosty-header {
+  color: rgb(104, 63, 27);
 }
 
 .recipe-subheader {
-    text-align: center;
+  text-align: center;
 }
 
 .recipe-description {
-    text-align: center;
+  text-align: center;
 }
 
 .recipe-content {
-    margin-left:20%;
+  margin-left: 20%;
 }
