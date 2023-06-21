@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: rgb(217, 217, 217);
+}
+
+.landingHeading {
+    color:rgb(210, 156, 56);
+}
+
+.landingLinks {
+  display: inline-block;
+  text-align: left;
+}
